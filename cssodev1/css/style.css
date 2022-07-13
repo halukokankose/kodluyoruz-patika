@@ -1,0 +1,64 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+    background-color: wheat;
+}
+
+body {
+    text-align: center;
+}
+
+.heading {
+    color: white;
+}
+
+.menu {
+    list-style-type: none;
+    float: center;
+}
+
+.menu li {
+    padding: 10px;
+    display: inline-block;
+    
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+.menu a:link{
+    color: sienna;
+}
+
+.menu a:visited{
+    color: sienna;
+}
+
+section {
+    margin: 30px;
+    padding: 50px;
+}
+
+p {
+    letter-spacing: 2px;
+}
+
+.menu2 {
+    list-style-position: inside;
+    padding: 25px;
+}
+
+.menu2 li {
+    margin: 10px;
+}
+
+article {
+    padding: 0px 150px 0px 150px;
+    margin-bottom: 100px;
+
+}
+
+img {
+    width: 200px;
+}
+
