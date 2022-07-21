@@ -1,2 +1,2 @@
-# instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
+# mediumbootstrapclone
+Simple HTML Medium clone made with Bootstrap.
